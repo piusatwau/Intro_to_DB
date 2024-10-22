@@ -1,2 +1,2 @@
-# Intro_to_DB
+# Introduction to data bases
 Basics of SQL
